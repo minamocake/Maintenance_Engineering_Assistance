@@ -16,4 +16,4 @@ https://video.sap.com/media/t/0_shu8xowo
 
 
 ■System architecture 
-https://github.com/minamocake/Maintenance_Engineering_Assistance/issues/1#issue-423130368
+<img src="https://user-images.githubusercontent.com/3624147/54670804-d1ffd680-4b37-11e9-98c7-320254999622.png">
