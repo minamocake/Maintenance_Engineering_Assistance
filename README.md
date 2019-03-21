@@ -2,7 +2,7 @@
 ※If you want to know how this repo will work, please see following movie.
 1. DL or clone this repository
 2. Open or double click "SAP Software Solutions _ Business Applications and Technology.htm"
-3. You can access to "Maintenance Engineer Assistance" page with your local machine
+3. You can access to "Maintenance Engineer Assistance" page with your local browser
 
 ■ Maintenance Engineer Assistance
 It has now become much easier to handle maintenance engineers’ daily tasks by leveraging SAP Conversational AI. All the common/frequently asked questions can be handled by the bot. In the demo scenario, a maintenance engineer deal with their regular maintenance by checking their task and operation of maintenance and where is the transmission line tower etc thorough chatbot.
