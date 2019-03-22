@@ -14,9 +14,12 @@ It will reduce the time to deal with their work and help them to do their daily 
 https://video.sap.com/media/t/0_shu8xowo
 
 ■demo scenario
-|Title|Type|Description|
-|:---|:---|:---|
-|table|string|テーブルを表示したい|
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ■Senario overview
 <img src="https://user-images.githubusercontent.com/3624147/54671120-99143180-4b38-11e9-914f-3f5a9105f12b.png">
