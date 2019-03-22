@@ -13,12 +13,11 @@ It will reduce the time to deal with their work and help them to do their daily 
 ■Movie
 https://video.sap.com/media/t/0_shu8xowo
 
-■demo scenario
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+■demo script
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ■Senario overview
