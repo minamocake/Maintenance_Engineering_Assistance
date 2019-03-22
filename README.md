@@ -14,23 +14,30 @@ It will reduce the time to deal with their work and help them to do their daily 
 https://video.sap.com/media/t/0_shu8xowo
 
 ■demo script
+
 |User Input|
     Hi
+
 |SAP conversational AI|
     Hi :)
     How can I help you as below?
     1.Routine tasks such as regular inspections
     2.Non-routine tasks such as failure handling
     3.Learning & FAQ about maintenance activities
+
 |User Input|
     1.Routine tasks
+
 |SAP conversational AI|
     Your task today
     Which operation do you want to check?
+
 |User Input|
     Xperiodic inspection
+
 |SAP conversational AI|
     (SAP conversational AI show "maintenance order" and "Gear shock absorber removal")
+
 |User Input|
     Can you show more details of maintenance?
 |SAP conversational AI|
