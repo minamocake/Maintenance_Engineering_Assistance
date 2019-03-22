@@ -24,8 +24,9 @@ How can I help you as below?
 1.Routine tasks such as regular inspections
 2.Non-routine tasks such as failure handling
 3.Learning & FAQ about maintenance activities ||
-|||
-|||
+||1.Routine tasks|
+|Your task today
+Which operation do you want to check?||
 |||
 |||
 |||
