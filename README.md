@@ -64,6 +64,7 @@ https://video.sap.com/media/t/0_shu8xowo
     Finished work today
     
 |SAP conversational AI|
+
     Please fill out following items.
     Date: 
     Worker: 
