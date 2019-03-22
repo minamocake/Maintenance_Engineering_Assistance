@@ -14,14 +14,9 @@ It will reduce the time to deal with their work and help them to do their daily 
 https://video.sap.com/media/t/0_shu8xowo
 
 ■demo scenario
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    | 
+|Title|Type|
+|:---|:---|
+|table|string|
 
 ■Senario overview
 <img src="https://user-images.githubusercontent.com/3624147/54671120-99143180-4b38-11e9-914f-3f5a9105f12b.png">
