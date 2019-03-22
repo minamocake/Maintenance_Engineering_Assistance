@@ -18,4 +18,4 @@ https://video.sap.com/media/t/0_shu8xowo
 
 
 ■System architecture 
-<img src="https://user-images.githubusercontent.com/3624147/54670804-d1ffd680-4b37-11e9-98c7-320254999622.png">
+<img src="https://user-images.githubusercontent.com/3624147/54806393-34361400-4cbd-11e9-84e2-addb2b5db362.png">
