@@ -14,22 +14,45 @@ It will reduce the time to deal with their work and help them to do their daily 
 https://video.sap.com/media/t/0_shu8xowo
 
 ■demo script
+|User Input|
+    Hi
+|SAP conversational AI|
+    Hi :)
+    How can I help you as below?
+    1.Routine tasks such as regular inspections
+    2.Non-routine tasks such as failure handling
+    3.Learning & FAQ about maintenance activities
+|User Input|
+    1.Routine tasks
+|SAP conversational AI|
+    Your task today
+    Which operation do you want to check?
+|User Input|
+    Xperiodic inspection
+|SAP conversational AI|
+    (SAP conversational AI show "maintenance order" and "Gear shock absorber removal")
+|User Input|
+    Can you show more details of maintenance?
+|SAP conversational AI|
+    (SAP conversational AI show how "remove front ring")
+|User Input|
+    Where is the transmission line tower located?
+|SAP conversational AI|
+    (SAP conversational AI show location map)
+|User Input|
+    Finished work today
+|SAP conversational AI|
+    Please fill out following items.
+    Date: 
+    Worker: 
+    Tasks: 
+|User Input|
+    Date: 2019/03/19
+    Worker: Tetsuya Haneishi
+    Tasks: Transmission and distribution device regular inspection
+|SAP conversational AI|
+    Cheers for good work :)
 
-|SAP conversational AI|User Input|
-|:---|:---|
-||Hi|
-|Hi :)
-How can I help you as below?
-1.Routine tasks such as regular inspections
-2.Non-routine tasks such as failure handling
-3.Learning & FAQ about maintenance activities | |
-| |1.Routine tasks|
-|Your task today
-Which operation do you want to check?||
-|||
-|||
-|||
-|||
 
 
 ■Senario overview
