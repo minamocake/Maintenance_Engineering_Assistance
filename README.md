@@ -17,7 +17,19 @@ https://video.sap.com/media/t/0_shu8xowo
 
 |SAP conversational AI|User Input|
 |:---|:---|
-|table|string|
+||Hi|
+|Hi :)
+How can I help you as below?
+
+1.Routine tasks such as regular inspections
+2.Non-routine tasks such as failure handling
+3.Learning & FAQ about maintenance activities ||
+|||
+|||
+|||
+|||
+|||
+|||
 
 
 ■Senario overview
