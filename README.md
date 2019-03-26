@@ -9,14 +9,12 @@ It will reduce the time to deal with their work and help them to do their daily 
 
 ■System architecture 
 <img src="https://user-images.githubusercontent.com/3624147/54806393-34361400-4cbd-11e9-84e2-addb2b5db362.png">
-
 ■ How to use
 
 ※If you want to know how this repo will work, please see following movie.
 1. DL or clone this repository
 2. Open or double click "SAP Software Solutions _ Business Applications and Technology.htm"
 3. You can access to "Maintenance Engineer Assistance" page with your local browser
-
 
 ■Movie
 https://video.sap.com/media/t/0_shu8xowo
